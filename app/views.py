@@ -8,11 +8,11 @@ def index():
     user = {'nickname': 'Ben'} #fake username
     posts = [
         {
-            'author': {'nickname': 'John', 'kudos': 34},
+            'author': {'nickname': 'John'},
             'body': 'Beautiful day in Portland!!'
         },
         {
-            'author': {'nickname': 'Susan', 'kudos': 55},
+            'author': {'nickname': 'Susan'},
             'body': 'Avengers Movie was great'
             }
         ]
